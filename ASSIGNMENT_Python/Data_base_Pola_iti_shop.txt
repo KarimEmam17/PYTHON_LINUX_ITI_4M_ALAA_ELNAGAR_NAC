@@ -1,0 +1,7 @@
+small : 40
+meduim : 50
+large : 60
+small   cost : 4
+meduim cost : 5
+large  cost : 6
+total sold   : 0
